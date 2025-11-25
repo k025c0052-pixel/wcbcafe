@@ -32,3 +32,11 @@ page-header {
     margin-top: 2rem;
     line-height: 1.4;
 }
+.cover {
+    background-size: cover;
+    background-position: center bottom;
+    height: 880px;
+}
+.cover-home {
+    background-image: url("../images/cover-home-s.wedp");
+}
