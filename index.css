@@ -93,7 +93,7 @@ page-header {
 }
 .info {
     width: 100%;
-    max-width: 544px
+    max-width: 544px;
     margin: auto;
     padding: 0 1.5rem;
     border-spacing: 0;
