@@ -26,11 +26,17 @@ page-header {
 .main-nav a:hover {
     color: #0bd;
 }
-.page-title {
+.page-title, 
+.heading-large {
     font-size: 3rem;
     text-align: center;
-    margin-top: 2rem;
+}
+.page-title {
+    margin-bottom: 2rem;
     line-height: 1.4;
+}
+.heading-large {
+    margin-bottom: 1rem;
 }
 .cover {
     background-size: cover;
