@@ -120,3 +120,8 @@ page-header {
     margin-top:6rem;
     color: #fff;
 }
+@media (min-width:800px) {
+    h1{
+        font-size: 5rem;
+    }
+}
