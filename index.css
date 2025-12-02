@@ -30,6 +30,7 @@ page-header {
 .heading-large {
     font-size: 3rem;
     text-align: center;
+    margin-bottom: 1rem;
 }
 .page-title {
     margin-bottom: 2rem;
