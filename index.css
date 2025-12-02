@@ -38,6 +38,14 @@ page-header {
 .heading-large {
     margin-bottom: 1rem;
 }
+.btn {
+    display: inline-block;
+    padding: 1.5rem;
+    background-color: #0bd;
+    color: #fff;
+    border-radius: 8px;
+    padding: .75rem 1.5rem;
+}
 .cover {
     background-size: cover;
     background-position: center bottom;
