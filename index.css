@@ -121,7 +121,16 @@ page-header {
     color: #fff;
 }
 @media (min-width:800px) {
-    h1{
+    /* 見出し*/
+    .page-title {
         font-size: 5rem;
+    }
+    .heading-large {
+        font-size: 4rem;
+    }
+
+    /* ヘッダー*/
+    .main-nav{
+        font-size: 2rem;
     }
 }
