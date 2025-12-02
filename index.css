@@ -40,3 +40,11 @@ page-header {
 .cover-home {
     background-image: url(../images/cover-home-s.webp);
 }
+.about {
+    max-width: 736px;
+    margin: 0 1.5rem;
+    padding: 3rem auto 0;
+}
+.about p {
+    margin-bottom: 3rem;
+}
