@@ -35,10 +35,7 @@ page-header {
 .heading-large {
     font-size: 3rem;
     text-align: center;
-}
-.page-title {
-    margin-bottom: 2rem;
-    line-height: 1.4;
+
 }
 .heading-large {
     margin-bottom: 1rem;
@@ -65,9 +62,10 @@ page-header {
 }
 .about {
     max-width: 736px;
-    margin: 0 1.5rem;
-    padding: 3rem 1.5rem 0;
+    margin: 0 auto;             
+    padding: 3rem 1.5rem 0;     
 }
+
 .about p {
     margin-bottom: 3rem;
 }
@@ -114,4 +112,11 @@ page-header {
 }
 .info td {
     padding: 1rem 0;
+}
+.copyright {
+    background-color: #432;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top:6rem;
+    color: #fff;
 }
